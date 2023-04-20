@@ -1,2 +1,1 @@
-# pcwt
-wavelet coherence for Python
+# Wavelet coherence analysis with Pyton
